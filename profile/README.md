@@ -194,7 +194,7 @@ We partner with teams at every stage:
 
 <img src="https://drive.google.com/uc?export=view&id=10D5qKSJfCnR6aaFYMebMDg3uTJpxnNxA" alt="NexviaTech Footer" width="160"/>
 
-<br/>
+<br/> 
 
 <sub>© 2025 NexviaTech &nbsp;·&nbsp; Built for Enterprise Outcomes &nbsp;·&nbsp; Engineering the Future</sub>
 
